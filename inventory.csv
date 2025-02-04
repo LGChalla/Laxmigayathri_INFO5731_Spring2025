@@ -1,0 +1,51 @@
+ID,Name,Category,Quantity,Price
+1,Laptop,Electronics,10,999.99
+2,Smartphone,Electronics,15,699.99
+3,Headphones,Electronics,25,149.99
+4,Desk Chair,Furniture,8,89.99
+5,Table Lamp,Furniture,12,39.99
+6,Notebook,Stationery,30,2.99
+7,Pen,Stationery,50,1.49
+8,Backpack,Accessories,20,49.99
+9,Running Shoes,Footwear,18,79.99
+10,Jacket,Clothing,10,59.99
+11,Blender,Appliances,7,89.99
+12,Microwave,Appliances,6,129.99
+13,Vacuum Cleaner,Appliances,5,199.99
+14,Watch,Accessories,9,199.99
+15,Sunglasses,Accessories,15,99.99
+16,Tennis Racket,Sports,10,79.99
+17,Basketball,Sports,12,29.99
+18,Yoga Mat,Sports,20,25.99
+19,Dumbbells,Sports,8,49.99
+20,Guitar,Musical Instruments,5,299.99
+21,Keyboard,Musical Instruments,6,199.99
+22,Violin,Musical Instruments,4,349.99
+23,Drumsticks,Musical Instruments,15,14.99
+24,Sofa,Furniture,3,499.99
+25,Dining Table,Furniture,2,799.99
+26,Curtains,Home Decor,10,24.99
+27,Wall Clock,Home Decor,12,19.99
+28,Pillow,Home Decor,20,9.99
+29,Mattress,Furniture,5,199.99
+30,Bookshelf,Furniture,7,129.99
+31,Printer,Electronics,6,159.99
+32,Monitor,Electronics,9,199.99
+33,Keyboard,Electronics,15,49.99
+34,Mouse,Electronics,20,29.99
+35,Router,Electronics,10,79.99
+36,Power Bank,Accessories,18,39.99
+37,Water Bottle,Accessories,25,14.99
+38,Camping Tent,Outdoor,5,149.99
+39,Sleeping Bag,Outdoor,8,99.99
+40,Flashlight,Outdoor,12,19.99
+41,Tool Kit,Hardware,6,49.99
+42,Drill Machine,Hardware,4,119.99
+43,Ladder,Hardware,3,89.99
+44,Tire Pump,Automotive,10,29.99
+45,Car Cover,Automotive,8,49.99
+46,Bike Helmet,Automotive,12,59.99
+47,Cookware Set,Kitchen,6,149.99
+48,Knife Set,Kitchen,10,39.99
+49,Cutting Board,Kitchen,15,19.99
+50,Dish Rack,Kitchen,8,24.99
